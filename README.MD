@@ -1,0 +1,1 @@
+This project is to classify the MSVA multimodal dataset of twitter using the CLIP model (neutral positive negative).
